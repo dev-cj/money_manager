@@ -30,7 +30,6 @@ const styles = StyleSheet.create({
 })
 
 const Tab = createBottomTabNavigator()
-
 const HomeTabNavigator = () => (
   <Tab.Navigator
     tabBarOptions={{
